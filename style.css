@@ -1,0 +1,28 @@
+body{font-family: 'Caveat', cursive;
+    text-size-adjust: 30px;
+    background-color: rgb(161, 125, 9);
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #536405;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: rgb(20, 215, 157);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #0e4a54;
+  }
+  
